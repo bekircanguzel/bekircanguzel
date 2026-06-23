@@ -77,19 +77,6 @@ domain:    "Payments · KYC · Open Banking · Fraud"
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bekircanguzel&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekircanguzel&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&layout=compact&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bekircanguzel&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Bridging business needs and clean code — one payment at a time."*
